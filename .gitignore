@@ -1,3 +1,7 @@
-obj
 .idea
+obj
+bin
 *.user
+*.dll
+*.deps.json
+*.pdb
