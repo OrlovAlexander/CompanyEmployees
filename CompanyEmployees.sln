@@ -1,5 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees", "CompanyEmployees\CompanyEmployees.csproj", "{39E8CCA6-0020-4B38-8983-40E8737F7D78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{72CCD584-2889-412A-9E48-E54BF5323E36}"
@@ -13,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Contracts", "Service.Contracts\Service.Contracts.csproj", "{F0F18CFE-FA51-4E9D-AB22-6AB304BB5BCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{387576F5-0A89-43D7-AF53-F5D1A21CED59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Presentation", "CompanyEmployees.Presentation\CompanyEmployees.Presentation.csproj", "{3E565CA7-0442-45CB-B66D-A72B95D9D30D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +51,9 @@ Global
 		{387576F5-0A89-43D7-AF53-F5D1A21CED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{387576F5-0A89-43D7-AF53-F5D1A21CED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{387576F5-0A89-43D7-AF53-F5D1A21CED59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E565CA7-0442-45CB-B66D-A72B95D9D30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E565CA7-0442-45CB-B66D-A72B95D9D30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E565CA7-0442-45CB-B66D-A72B95D9D30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E565CA7-0442-45CB-B66D-A72B95D9D30D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
